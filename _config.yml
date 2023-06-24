@@ -1,10 +1,10 @@
 title: Alberto Ruiz # your name (or website title) here
 logo: "/images/photo2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-<br>Physicist with 3+ years of experience analyzing data. Master's Degree in Physical Sciences from  National 
-Autonomous University of Mexico. <br>
-<br>Passionate about using data to draw insights and tell stories.<br>
-<a href="https://www.linkedin.com/in/alberto-ruiz-gayosso-a4746827a/">My LinkedIn Profile</a> 
+  <br>Physicist with 3+ years of experience analyzing data. Master's Degree in Physical Sciences from  National 
+  Autonomous University of Mexico. <br>
+  <br>Passionate about using data to draw insights and tell stories.<br>
+  <a href="https://www.linkedin.com/in/alberto-ruiz-gayosso-a4746827a/">My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
