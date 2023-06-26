@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Housing Price Prediction](https://github.com/AlbertoR94/house-prices-prediction)
+[Housing Price Prediction using Scikit-learn, Pandas and Matplotlib](https://github.com/AlbertoR94/house-prices-prediction)
 <img src="images/real-estate.jpg?raw=true"/>
 
 ---
