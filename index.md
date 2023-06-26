@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Housing Price Prediction using Scikit-learn, Pandas and Matplotlib](https://github.com/AlbertoR94/house-prices-prediction)
-<img src="images/thumbnail.png?raw=true"/>
+<img src="images/thumbnail_test.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
