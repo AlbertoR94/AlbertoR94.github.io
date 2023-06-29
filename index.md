@@ -2,14 +2,13 @@
 
 ---
 
-### Category Name 1 
-
-[Housing Price Prediction using Scikit-learn, Pandas and Matplotlib](https://github.com/AlbertoR94/house-prices-prediction)
-<img src="images/thumbnail_test.png?raw=true"/>
+### Projects
+[European Football Leagues analysis](https://github.com/AlbertoR94/European_Football_Analysis/tree/main)
+<img src="images/football_dashboard.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Housing Price Prediction using Scikit-learn, Pandas and Matplotlib](https://github.com/AlbertoR94/house-prices-prediction)
+<img src="images/thumbnail_test.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
