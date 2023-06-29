@@ -3,6 +3,7 @@
 ---
 
 ### Projects
+
 [European Football Leagues analysis](https://github.com/AlbertoR94/European_Football_Analysis/tree/main)
 <img src="images/football_dashboard.png?raw=true"/>
 
